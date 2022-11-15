@@ -6,13 +6,13 @@
   "license": "Apache-2.0",
   "keywords": ["dev-platform", "Microchip", "AVR", "Atmel", "8-bit"],
   "engines": {
-    "platformio": "^6"
+    "platformio": "^7"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/platformio/platform-atmelavr.git"
   },
-  "version": "4.0.0",
+  "version": "7.0.0",
   "frameworks": {
     "arduino": {
       "package": "framework-arduino-avr",
